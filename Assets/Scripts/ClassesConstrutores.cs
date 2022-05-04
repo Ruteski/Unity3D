@@ -28,5 +28,8 @@ public class ClassesConstrutores : MonoBehaviour
         Debug.Log(dog2.nome);
         Debug.Log(dog2.raca);
 
+        // metodo estatico
+        MetodosVariaveisStatic.estaticos.AumentarVida();
+
     }
 }
