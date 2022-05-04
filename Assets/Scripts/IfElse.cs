@@ -16,8 +16,10 @@ public class IfElse : MonoBehaviour
 
         if (n1 >= n2) {
             Debug.Log("verdadeiro");
-        } else {
+        } else if (true) {
             Debug.Log("falso");
+        } else {
+            Debug.Log("bla");
         }
     }
 
