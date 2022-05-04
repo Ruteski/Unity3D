@@ -314,7 +314,7 @@ GameObject:
   - component: {fileID: 1448502511}
   - component: {fileID: 1448502510}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: ObjTeste
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -363,8 +363,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ValorInteiro: 0
   Numerosagua: 0
-  gameObject: {fileID: 963194225}
-  transform: {fileID: 1448502513}
+  go: {fileID: 0}
+  trf: {fileID: 0}
   body: {fileID: 1448502511}
   collider: {fileID: 1448502510}
 --- !u!4 &1448502513
