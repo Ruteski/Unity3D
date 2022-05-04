@@ -14,7 +14,7 @@ public class Script : MonoBehaviour
     public GameObject go;
     public Transform trf;
     public Rigidbody body;
-    public Collider collider;
+    //public Collider colisor;
 
 
 
