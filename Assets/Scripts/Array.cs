@@ -19,6 +19,10 @@ public class Array : MonoBehaviour
         foreach (GameObject p in player) {
             Debug.Log(p.name);
         }
+
+        for(int i = 0; i < player.Length; i++) { 
+            Debug.Log(player[i].name);
+        } 
     }
 
     // Update is called once per frame
