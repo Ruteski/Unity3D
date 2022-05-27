@@ -21,4 +21,6 @@ public class Atributos : MonoBehaviour
 
     [TextArea]
     public string barra;
+
+
 }
